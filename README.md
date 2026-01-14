@@ -3,6 +3,10 @@
 Application de recommandation de films – Streamlit
 ---
 
+
+## Lien vers le site : https://cinemadelacite.streamlit.app/
+
+
 ## Présentation du projet
 Cinéma de la Cité est une application web développée avec Streamlit qui permet :
 
